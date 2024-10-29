@@ -13,14 +13,13 @@
 }
 
 :root {
---bg-color: rgb(2, 43, 71);
---second-bg-color: #022948;
---second-bg-color: rgb(6, 63, 101);
---text-color:  #fff;
---main-color: rgb(6, 202, 242);
-
-}
-
+    --bg-color: rgb(2, 43, 71);
+    --second-bg-color: #022948;
+    --second-bg-color: rgb(6, 63, 101);
+    --text-color:  #fff;
+    --main-color: rgb(6, 202, 242);
+    
+    }
 html{
     font-size: 62.5%;
     overflow-x: hidden;
